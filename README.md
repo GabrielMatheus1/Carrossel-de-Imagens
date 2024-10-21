@@ -1,4 +1,4 @@
-# *PROJETO DE CARROCRL DE IMAGENS*
+# *PROJETO DE CARROSSEL DE IMAGENS*
 
 Meu segundo Projeto com interatividade.
 os materiais usados para desenvolver esse projeto foram;
