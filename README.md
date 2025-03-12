@@ -1,7 +1,6 @@
-# *PROJETO DE CARROSSEL DE IMAGENS*
+# *CARROSSEL DE IMAGENS*
 
-Meu segundo Projeto com interatividade.
-os materiais usados para desenvolver esse projeto foram;
+Neste projeto, cada botão selecionado exibirá uma imagem correspondente e a descrição de cada personagem. Os materiais usados para desenvolver esse projeto foram;
 > [MDN Web Docs](https://developer.mozilla.org/pt-BR/);
 
 > Alguns videos do Youtube;
